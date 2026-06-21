@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ERP.API",
+    "\\ERP.API\\Controllers",
+    "\\ERP.API\\Controllers\\Services",
+    "\\ERP.API\\obj",
+    "\\ERP.API\\obj\\Release",
+    "\\ERP.Core",
+    "\\ERP.Core\\Entities",
+    "\\ERP.Data",
+    "\\ERP.Data\\Migrations"
+  ],
+  "PreviewInSolutionExplorer": false
+}

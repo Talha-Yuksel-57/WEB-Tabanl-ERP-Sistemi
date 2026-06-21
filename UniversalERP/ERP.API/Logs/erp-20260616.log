@@ -1,0 +1,9 @@
+[2026-06-16 13:46:19 INF] UniversalERP API başarıyla başlatıldı.
+[2026-06-16 13:55:47 INF] UniversalERP API başarıyla başlatıldı.
+[2026-06-16 14:35:53 INF] HTTP GET /swagger responded 301 in 65.7746 ms
+[2026-06-16 14:35:53 INF] HTTP GET /swagger/index.html responded 200 in 185.1578 ms
+[2026-06-16 14:35:53 INF] HTTP GET /swagger/swagger-ui.css responded 200 in 33.5164 ms
+[2026-06-16 14:35:53 INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 30.9199 ms
+[2026-06-16 14:35:53 INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 35.7068 ms
+[2026-06-16 14:35:53 INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 0.5797 ms
+[2026-06-16 14:35:54 INF] HTTP GET /swagger/v1/swagger.json responded 200 in 369.9748 ms

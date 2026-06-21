@@ -1,0 +1,53 @@
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.deps.json
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.runtimeconfig.json
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.pdb
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Core.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Core.pdb
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.csproj.AssemblyReference.cache
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.AssemblyInfoInputs.cache
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.AssemblyInfo.cs
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.csproj.Up2Date
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\refint\ERP.Data.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.pdb
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.genruntimeconfig.cache
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\obj\Debug\net8.0\ref\ERP.Data.dll
+C:\Projeler\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.deps.json
+C:\Projeler\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.runtimeconfig.json
+C:\Projeler\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.dll
+C:\Projeler\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Data.pdb
+C:\Projeler\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Core.dll
+C:\Projeler\UniversalERP\ERP.Data\bin\Debug\net8.0\ERP.Core.pdb
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.csproj.AssemblyReference.cache
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.AssemblyInfoInputs.cache
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.AssemblyInfo.cs
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.csproj.CoreCompileInputs.cache
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.csproj.Up2Date
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.dll
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\refint\ERP.Data.dll
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.pdb
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ERP.Data.genruntimeconfig.cache
+C:\Projeler\UniversalERP\ERP.Data\obj\Debug\net8.0\ref\ERP.Data.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\bin\Debug\net8.0\LatoFont\OFL.txt

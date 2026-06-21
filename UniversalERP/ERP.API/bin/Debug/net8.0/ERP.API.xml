@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ERP.API</name>
+    </assembly>
+    <members>
+        <member name="M:ERP.API.Controllers.AuditLogsController.GetAll(System.String,System.String,System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.Int32,System.Int32)">
+            <summary>Tenant'a ait audit loglarını listeler</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.AuthController.Register(ERP.Core.DTOs.Auth.RegisterDto)">
+            <summary>Yeni kullanıcı kaydı</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.AuthController.Login(ERP.Core.DTOs.Auth.LoginDto)">
+            <summary>Giriş yap — AccessToken + RefreshToken döner</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.AuthController.Refresh(ERP.Core.DTOs.Auth.RefreshTokenDto)">
+            <summary>AccessToken süresi dolunca yenile</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.AuthController.Logout">
+            <summary>Çıkış yap — RefreshToken geçersiz kıl</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.DashboardController.GetDashboard">
+            <summary>
+            Tenant'ın tüm KPI verilerini, grafik datasını ve son işlemlerini döner
+            </summary>
+        </member>
+        <member name="T:ERP.API.Controllers.ProductsController">
+            <summary>Ürün yönetimi işlemleri</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ProductsController.GetAll">
+            <summary>Tenant'a ait tüm ürünleri listeler</summary>
+            <returns>Ürün listesi</returns>
+        </member>
+        <member name="M:ERP.API.Controllers.ProductsController.GetById(System.Int32)">
+            <summary>ID'ye göre ürün getirir</summary>
+            <param name="id">Ürün ID</param>
+        </member>
+        <member name="M:ERP.API.Controllers.ProductsController.GetLowStock">
+            <summary>Stok kritik seviyenin altındaki ürünleri listeler</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ProductsController.Create(ERP.Core.DTOs.Product.CreateProductDto)">
+            <summary>Yeni ürün oluşturur</summary>
+            <remarks>Sadece Manager ve üzeri roller kullanabilir.</remarks>
+        </member>
+        <member name="M:ERP.API.Controllers.ProductsController.Update(System.Int32,ERP.Core.DTOs.Product.UpdateProductDto)">
+            <summary>Ürün bilgilerini günceller</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ProductsController.UpdateStock(System.Int32,ERP.Core.DTOs.Product.UpdateStockDto)">
+            <summary>Ürün stok miktarını günceller</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ProductsController.Delete(System.Int32)">
+            <summary>Ürünü soft-delete ile siler (veritabanından kaldırılmaz)</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ProfileController.GetProfile">
+            <summary>Giriş yapan kullanıcının profil bilgilerini döner</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ProfileController.UpdateProfile(ERP.Core.DTOs.Profile.UpdateProfileDto)">
+            <summary>Profil bilgilerini güncelle (Ad Soyad, Departman)</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ProfileController.ChangePassword(ERP.Core.DTOs.Profile.ChangePasswordDto)">
+            <summary>Şifre değiştir</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.ExportSalesToPdf(System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.String,System.String)">
+            <summary>Satış raporunu PDF olarak indir</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.ExportStockToPdf">
+            <summary>Stok raporunu PDF olarak indir</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.ExportSalesToExcel(System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.String,System.String)">
+            <summary>Satış raporunu Excel olarak indir</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.ExportStockToExcel">
+            <summary>Stok raporunu Excel olarak indir</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.ImportProductsFromExcel(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Excel'den ürün aktar.
+            Beklenen sütunlar: A=Ad, B=Fiyat, C=Stok, D=MinStok (1. satır başlık)
+            </summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.ImportProductsFromJson(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            JSON'dan ürün aktar.
+            Format: [{"name":"Ürün","price":10.5,"stockCount":100,"minStockLevel":5}]
+            </summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.ImportProductsFromXml(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            XML'den ürün aktar.
+            Format: &lt;Products&gt;&lt;ProductImportRowDto&gt;...&lt;/ProductImportRowDto&gt;&lt;/Products&gt;
+            </summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.PreviewSales(System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.String)">
+            <summary>Satış raporu verilerini JSON olarak döner</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.ReportsController.PreviewStock">
+            <summary>Stok raporu verilerini JSON olarak döner</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.SalesController.Create(ERP.Core.DTOs.Sale.CreateSaleDto)">
+            <summary>
+            Satış oluşturur — Stok düşürme + Satış kaydı atomik olarak gerçekleşir (ACID)
+            </summary>
+        </member>
+        <member name="M:ERP.API.Controllers.TenantsController.GetTenants">
+            <summary>
+            Aktif firmaları listeler. Kayıt formunda firma seçimi için
+            kimlik doğrulaması gerektirmez (Register sayfasında kullanılır).
+            </summary>
+        </member>
+        <member name="M:ERP.API.Controllers.TenantsController.CreateTenant(ERP.Core.Entities.Tenant)">
+            <summary>Yeni firma oluşturur (SuperAdmin işlemi)</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.TenantsController.GetSettings">
+            <summary>Giriş yapan kullanıcının firma ayarlarını döner</summary>
+        </member>
+        <member name="M:ERP.API.Controllers.TenantsController.UpdateSettings(ERP.Core.DTOs.Profile.UpdateTenantSettingsDto)">
+            <summary>Firma ayarlarını güncelle (sadece TenantAdmin ve SuperAdmin)</summary>
+        </member>
+    </members>
+</doc>

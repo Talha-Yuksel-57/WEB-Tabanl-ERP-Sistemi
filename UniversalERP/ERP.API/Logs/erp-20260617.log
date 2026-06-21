@@ -1,0 +1,651 @@
+[2026-06-17 05:24:37 INF] UniversalERP API başarıyla başlatıldı.
+[2026-06-17 05:24:46 INF] HTTP OPTIONS /api/auth/login responded 204 in 35.5564 ms
+[2026-06-17 05:24:46 WRN] Failed to determine the https port for redirect.
+[2026-06-17 05:24:46 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 05:24:46 INF] HTTP POST /api/auth/login responded 200 in 426.2754 ms
+[2026-06-17 05:24:47 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1766 ms
+[2026-06-17 05:24:47 INF] HTTP OPTIONS /api/dashboard responded 204 in 1.2480 ms
+[2026-06-17 05:24:47 INF] HTTP GET /api/dashboard responded 200 in 264.9149 ms
+[2026-06-17 05:24:47 INF] HTTP GET /api/dashboard responded 200 in 16.1695 ms
+[2026-06-17 05:34:52 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.2446 ms
+[2026-06-17 05:34:52 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1082 ms
+[2026-06-17 05:34:52 INF] HTTP GET /api/dashboard responded 200 in 73.1440 ms
+[2026-06-17 05:34:52 INF] HTTP GET /api/dashboard responded 200 in 9.8861 ms
+[2026-06-17 05:34:54 INF] HTTP OPTIONS /api/products responded 204 in 0.5814 ms
+[2026-06-17 05:34:54 INF] HTTP OPTIONS /api/products responded 204 in 0.4497 ms
+[2026-06-17 05:34:54 INF] HTTP GET /api/products responded 200 in 192.0612 ms
+[2026-06-17 05:34:54 INF] HTTP GET /api/products responded 200 in 4.8176 ms
+[2026-06-17 05:34:57 INF] HTTP OPTIONS /api/customers responded 204 in 0.4072 ms
+[2026-06-17 05:34:57 INF] HTTP OPTIONS /api/customers responded 204 in 0.3858 ms
+[2026-06-17 05:34:57 INF] HTTP GET /api/customers responded 200 in 26.2551 ms
+[2026-06-17 05:34:57 INF] HTTP GET /api/customers responded 200 in 3.7379 ms
+[2026-06-17 05:34:58 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.9722 ms
+[2026-06-17 05:34:58 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1945 ms
+[2026-06-17 05:34:58 INF] HTTP GET /api/dashboard responded 200 in 25.2519 ms
+[2026-06-17 05:34:58 INF] HTTP GET /api/dashboard responded 200 in 11.8636 ms
+[2026-06-17 05:35:37 INF] HTTP OPTIONS /api/products responded 204 in 0.2641 ms
+[2026-06-17 05:35:37 INF] HTTP OPTIONS /api/products responded 204 in 0.1800 ms
+[2026-06-17 05:35:37 INF] HTTP GET /api/products responded 200 in 10.1439 ms
+[2026-06-17 05:35:37 INF] HTTP GET /api/products responded 200 in 4.4227 ms
+[2026-06-17 05:35:38 INF] HTTP OPTIONS /api/customers responded 204 in 0.4666 ms
+[2026-06-17 05:35:38 INF] HTTP OPTIONS /api/customers responded 204 in 0.0951 ms
+[2026-06-17 05:35:38 INF] HTTP GET /api/customers responded 200 in 3.0356 ms
+[2026-06-17 05:35:38 INF] HTTP GET /api/customers responded 200 in 1.8569 ms
+[2026-06-17 05:35:39 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.3252 ms
+[2026-06-17 05:35:39 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1390 ms
+[2026-06-17 05:35:39 INF] HTTP GET /api/dashboard responded 200 in 24.7510 ms
+[2026-06-17 05:35:39 INF] HTTP GET /api/dashboard responded 200 in 18.6964 ms
+[2026-06-17 05:40:19 INF] HTTP OPTIONS /api/customers responded 204 in 0.5721 ms
+[2026-06-17 05:40:19 INF] HTTP OPTIONS /api/customers responded 204 in 0.0791 ms
+[2026-06-17 05:40:19 INF] HTTP GET /api/customers responded 200 in 2.9114 ms
+[2026-06-17 05:40:19 INF] HTTP GET /api/customers responded 200 in 3.1602 ms
+[2026-06-17 05:40:31 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.3567 ms
+[2026-06-17 05:40:31 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.3419 ms
+[2026-06-17 05:40:31 INF] HTTP GET /api/dashboard responded 200 in 16.8062 ms
+[2026-06-17 05:40:31 INF] HTTP GET /api/dashboard responded 200 in 15.1411 ms
+[2026-06-17 05:40:34 INF] HTTP OPTIONS /api/products responded 204 in 0.1213 ms
+[2026-06-17 05:40:34 INF] HTTP OPTIONS /api/products responded 204 in 0.1123 ms
+[2026-06-17 05:40:34 INF] HTTP GET /api/products responded 200 in 1.9285 ms
+[2026-06-17 05:40:34 INF] HTTP GET /api/products responded 200 in 4.1509 ms
+[2026-06-17 05:41:03 INF] HTTP OPTIONS /api/customers responded 204 in 0.6407 ms
+[2026-06-17 05:41:03 INF] HTTP OPTIONS /api/customers responded 204 in 0.0862 ms
+[2026-06-17 05:41:03 INF] HTTP GET /api/customers responded 200 in 1.9146 ms
+[2026-06-17 05:41:03 INF] HTTP GET /api/customers responded 200 in 3.6523 ms
+[2026-06-17 05:41:06 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1230 ms
+[2026-06-17 05:41:06 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0573 ms
+[2026-06-17 05:41:06 INF] HTTP GET /api/dashboard responded 200 in 11.2549 ms
+[2026-06-17 05:41:06 INF] HTTP GET /api/dashboard responded 200 in 7.0950 ms
+[2026-06-17 05:41:11 INF] HTTP OPTIONS /api/auth/login responded 204 in 0.1047 ms
+[2026-06-17 05:41:11 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 05:41:11 INF] HTTP POST /api/auth/login responded 200 in 359.2882 ms
+[2026-06-17 05:41:11 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1157 ms
+[2026-06-17 05:41:11 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.3807 ms
+[2026-06-17 05:41:11 INF] HTTP GET /api/dashboard responded 401 in 5.5607 ms
+[2026-06-17 05:41:11 INF] HTTP GET /api/dashboard responded 200 in 13.3324 ms
+[2026-06-17 11:28:46 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1531 ms
+[2026-06-17 11:28:46 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0225 ms
+[2026-06-17 11:28:46 INF] HTTP GET /api/dashboard responded 401 in 6.1002 ms
+[2026-06-17 11:28:46 INF] HTTP GET /api/dashboard responded 401 in 0.7286 ms
+[2026-06-17 11:28:56 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0890 ms
+[2026-06-17 11:28:56 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0857 ms
+[2026-06-17 11:28:56 INF] HTTP GET /api/dashboard responded 401 in 0.5386 ms
+[2026-06-17 11:28:56 INF] HTTP GET /api/dashboard responded 401 in 0.4979 ms
+[2026-06-17 11:28:57 INF] HTTP GET /api/dashboard responded 401 in 1.5259 ms
+[2026-06-17 11:28:57 INF] HTTP GET /api/dashboard responded 401 in 0.5416 ms
+[2026-06-17 11:28:58 INF] HTTP GET /api/dashboard responded 401 in 0.5008 ms
+[2026-06-17 11:28:58 INF] HTTP GET /api/dashboard responded 401 in 0.3787 ms
+[2026-06-17 11:33:42 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.2791 ms
+[2026-06-17 11:33:42 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0289 ms
+[2026-06-17 11:33:42 INF] HTTP GET /api/dashboard responded 401 in 0.5768 ms
+[2026-06-17 11:33:42 INF] HTTP GET /api/dashboard responded 401 in 0.3822 ms
+[2026-06-17 11:34:01 INF] UniversalERP API başarıyla başlatıldı.
+[2026-06-17 11:34:12 INF] HTTP OPTIONS /api/dashboard responded 204 in 15.8950 ms
+[2026-06-17 11:34:12 INF] HTTP OPTIONS /api/dashboard responded 204 in 15.8865 ms
+[2026-06-17 11:34:12 WRN] Failed to determine the https port for redirect.
+[2026-06-17 11:34:12 INF] HTTP GET /api/dashboard responded 401 in 76.1915 ms
+[2026-06-17 11:34:12 INF] HTTP GET /api/dashboard responded 401 in 5.3448 ms
+[2026-06-17 11:34:14 INF] HTTP GET /api/dashboard responded 401 in 2.0389 ms
+[2026-06-17 11:34:14 INF] HTTP GET /api/dashboard responded 401 in 0.4752 ms
+[2026-06-17 11:35:35 INF] UniversalERP API başarıyla başlatıldı.
+[2026-06-17 11:35:49 INF] HTTP OPTIONS /api/dashboard responded 204 in 14.3413 ms
+[2026-06-17 11:35:49 INF] HTTP OPTIONS /api/dashboard responded 204 in 14.3949 ms
+[2026-06-17 11:35:49 WRN] Failed to determine the https port for redirect.
+[2026-06-17 11:35:49 INF] HTTP GET /api/dashboard responded 401 in 67.4825 ms
+[2026-06-17 11:35:49 INF] HTTP GET /api/dashboard responded 401 in 6.0180 ms
+[2026-06-17 11:35:51 INF] HTTP OPTIONS /api/products responded 204 in 0.1612 ms
+[2026-06-17 11:35:51 INF] HTTP OPTIONS /api/products responded 204 in 0.1613 ms
+[2026-06-17 11:35:51 INF] HTTP GET /api/products responded 401 in 2.6436 ms
+[2026-06-17 11:35:51 INF] HTTP GET /api/products responded 401 in 0.9593 ms
+[2026-06-17 11:35:52 INF] HTTP GET /api/dashboard responded 401 in 1.8982 ms
+[2026-06-17 11:35:52 INF] HTTP GET /api/dashboard responded 401 in 2.2420 ms
+[2026-06-17 11:35:53 INF] HTTP OPTIONS /api/customers responded 204 in 0.1823 ms
+[2026-06-17 11:35:53 INF] HTTP OPTIONS /api/customers responded 204 in 0.0310 ms
+[2026-06-17 11:35:53 INF] HTTP GET /api/customers responded 401 in 0.7324 ms
+[2026-06-17 11:35:53 INF] HTTP GET /api/customers responded 401 in 0.5270 ms
+[2026-06-17 11:35:54 INF] HTTP OPTIONS /api/sales responded 204 in 0.3137 ms
+[2026-06-17 11:35:54 INF] HTTP GET /api/products responded 401 in 2.7230 ms
+[2026-06-17 11:35:54 INF] HTTP GET /api/customers responded 401 in 1.8364 ms
+[2026-06-17 11:35:54 INF] HTTP OPTIONS /api/sales responded 204 in 0.0597 ms
+[2026-06-17 11:35:54 INF] HTTP GET /api/sales responded 401 in 3.4589 ms
+[2026-06-17 11:35:54 INF] HTTP GET /api/products responded 401 in 2.0064 ms
+[2026-06-17 11:35:54 INF] HTTP GET /api/customers responded 401 in 1.6941 ms
+[2026-06-17 11:35:54 INF] HTTP GET /api/sales responded 401 in 1.0186 ms
+[2026-06-17 11:35:55 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0654 ms
+[2026-06-17 11:35:55 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.3579 ms
+[2026-06-17 11:35:55 INF] HTTP GET /api/customers responded 401 in 0.8198 ms
+[2026-06-17 11:35:55 INF] HTTP GET /api/serviceorders responded 401 in 0.8840 ms
+[2026-06-17 11:35:55 INF] HTTP GET /api/customers responded 401 in 0.4661 ms
+[2026-06-17 11:35:55 INF] HTTP GET /api/serviceorders responded 401 in 0.3745 ms
+[2026-06-17 11:35:57 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.2970 ms
+[2026-06-17 11:35:57 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.2658 ms
+[2026-06-17 11:35:57 INF] HTTP GET /api/projecttasks responded 401 in 0.9159 ms
+[2026-06-17 11:35:57 INF] HTTP GET /api/projecttasks responded 401 in 0.7571 ms
+[2026-06-17 11:35:58 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.3706 ms
+[2026-06-17 11:35:58 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0581 ms
+[2026-06-17 11:35:58 INF] HTTP GET /api/dashboard responded 401 in 0.7608 ms
+[2026-06-17 11:35:58 INF] HTTP GET /api/dashboard responded 401 in 1.1508 ms
+[2026-06-17 11:52:06 INF] HTTP OPTIONS /api/auth/login responded 204 in 0.2698 ms
+[2026-06-17 11:52:08 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 11:52:08 INF] HTTP POST /api/auth/login responded 200 in 1474.9368 ms
+[2026-06-17 11:52:08 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0553 ms
+[2026-06-17 11:52:08 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0358 ms
+[2026-06-17 11:52:08 INF] HTTP GET /api/dashboard responded 401 in 0.3080 ms
+[2026-06-17 11:52:08 INF] HTTP GET /api/dashboard responded 200 in 269.9974 ms
+[2026-06-17 11:52:09 INF] HTTP OPTIONS /api/products responded 204 in 0.1076 ms
+[2026-06-17 11:52:09 INF] HTTP OPTIONS /api/products responded 204 in 0.0311 ms
+[2026-06-17 11:52:10 INF] HTTP GET /api/products responded 200 in 106.0128 ms
+[2026-06-17 11:52:10 INF] HTTP GET /api/products responded 200 in 4.6925 ms
+[2026-06-17 11:52:10 INF] HTTP GET /api/dashboard responded 200 in 32.2474 ms
+[2026-06-17 11:52:11 INF] HTTP GET /api/dashboard responded 200 in 18.0545 ms
+[2026-06-17 11:52:30 INF] HTTP OPTIONS /api/products responded 204 in 0.1712 ms
+[2026-06-17 11:52:30 INF] HTTP OPTIONS /api/products responded 204 in 0.0939 ms
+[2026-06-17 11:52:30 INF] HTTP GET /api/products responded 200 in 11.8392 ms
+[2026-06-17 11:52:30 INF] HTTP GET /api/products responded 200 in 5.1117 ms
+[2026-06-17 11:52:32 INF] HTTP OPTIONS /api/customers responded 204 in 0.1457 ms
+[2026-06-17 11:52:32 INF] HTTP OPTIONS /api/customers responded 204 in 0.1160 ms
+[2026-06-17 11:52:32 INF] HTTP GET /api/customers responded 200 in 42.9653 ms
+[2026-06-17 11:52:32 INF] HTTP GET /api/customers responded 200 in 3.7239 ms
+[2026-06-17 11:52:35 INF] HTTP OPTIONS /api/sales responded 204 in 0.2520 ms
+[2026-06-17 11:52:35 INF] HTTP OPTIONS /api/sales responded 204 in 0.0396 ms
+[2026-06-17 11:52:35 INF] HTTP GET /api/products responded 200 in 8.1504 ms
+[2026-06-17 11:52:35 INF] HTTP GET /api/customers responded 200 in 13.1500 ms
+[2026-06-17 11:52:35 INF] HTTP GET /api/products responded 200 in 5.0059 ms
+[2026-06-17 11:52:35 INF] HTTP GET /api/customers responded 200 in 4.6255 ms
+[2026-06-17 11:52:35 INF] HTTP GET /api/sales responded 200 in 92.8304 ms
+[2026-06-17 11:52:35 INF] HTTP GET /api/sales responded 200 in 5.7523 ms
+[2026-06-17 11:52:36 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.1251 ms
+[2026-06-17 11:52:36 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.1752 ms
+[2026-06-17 11:52:36 INF] HTTP GET /api/customers responded 200 in 3.3611 ms
+[2026-06-17 11:52:36 INF] HTTP GET /api/customers responded 200 in 2.7692 ms
+[2026-06-17 11:52:36 INF] HTTP GET /api/serviceorders responded 200 in 30.5935 ms
+[2026-06-17 11:52:36 INF] HTTP GET /api/serviceorders responded 200 in 2.4354 ms
+[2026-06-17 11:52:37 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.1773 ms
+[2026-06-17 11:52:37 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.1047 ms
+[2026-06-17 11:52:37 INF] HTTP GET /api/projecttasks responded 200 in 89.7937 ms
+[2026-06-17 11:52:37 INF] HTTP GET /api/projecttasks responded 200 in 5.7033 ms
+[2026-06-17 11:54:48 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0610 ms
+[2026-06-17 11:54:48 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0835 ms
+[2026-06-17 11:54:48 INF] HTTP GET /api/dashboard responded 200 in 20.9390 ms
+[2026-06-17 11:54:48 INF] HTTP GET /api/dashboard responded 200 in 12.6345 ms
+[2026-06-17 11:54:50 INF] HTTP OPTIONS /api/products responded 204 in 0.1262 ms
+[2026-06-17 11:54:50 INF] HTTP OPTIONS /api/products responded 204 in 0.1293 ms
+[2026-06-17 11:54:50 INF] HTTP GET /api/products responded 200 in 5.8257 ms
+[2026-06-17 11:54:50 INF] HTTP GET /api/products responded 200 in 4.5081 ms
+[2026-06-17 11:54:51 INF] HTTP GET /api/dashboard responded 200 in 12.5095 ms
+[2026-06-17 11:54:51 INF] HTTP GET /api/dashboard responded 200 in 8.6539 ms
+[2026-06-17 11:54:52 INF] HTTP OPTIONS /api/customers responded 204 in 0.0909 ms
+[2026-06-17 11:54:52 INF] HTTP OPTIONS /api/customers responded 204 in 0.0631 ms
+[2026-06-17 11:54:52 INF] HTTP GET /api/customers responded 200 in 5.1184 ms
+[2026-06-17 11:54:52 INF] HTTP GET /api/customers responded 200 in 6.6742 ms
+[2026-06-17 11:54:54 INF] HTTP OPTIONS /api/sales responded 204 in 0.5336 ms
+[2026-06-17 11:54:54 INF] HTTP OPTIONS /api/sales responded 204 in 0.0698 ms
+[2026-06-17 11:54:54 INF] HTTP GET /api/customers responded 200 in 2.6081 ms
+[2026-06-17 11:54:54 INF] HTTP GET /api/customers responded 200 in 1.8808 ms
+[2026-06-17 11:54:54 INF] HTTP GET /api/products responded 200 in 3.8283 ms
+[2026-06-17 11:54:54 INF] HTTP GET /api/products responded 200 in 2.7884 ms
+[2026-06-17 11:54:54 INF] HTTP GET /api/sales responded 200 in 16.4850 ms
+[2026-06-17 11:54:54 INF] HTTP GET /api/sales responded 200 in 2.3341 ms
+[2026-06-17 11:54:55 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0694 ms
+[2026-06-17 11:54:55 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0166 ms
+[2026-06-17 11:54:55 INF] HTTP GET /api/customers responded 200 in 2.3490 ms
+[2026-06-17 11:54:55 INF] HTTP GET /api/customers responded 200 in 7.9917 ms
+[2026-06-17 11:54:55 INF] HTTP GET /api/serviceorders responded 200 in 9.6451 ms
+[2026-06-17 11:54:55 INF] HTTP GET /api/serviceorders responded 200 in 1.3766 ms
+[2026-06-17 11:54:56 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.8170 ms
+[2026-06-17 11:54:56 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0628 ms
+[2026-06-17 11:54:56 INF] HTTP GET /api/projecttasks responded 200 in 4.1268 ms
+[2026-06-17 11:54:56 INF] HTTP GET /api/projecttasks responded 200 in 1.5842 ms
+[2026-06-17 11:55:12 INF] HTTP OPTIONS /api/auth/login responded 204 in 0.0805 ms
+[2026-06-17 11:55:12 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 11:55:12 INF] HTTP POST /api/auth/login responded 200 in 230.2869 ms
+[2026-06-17 11:55:12 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0789 ms
+[2026-06-17 11:55:12 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.1426 ms
+[2026-06-17 11:55:12 INF] HTTP GET /api/projecttasks responded 401 in 0.2553 ms
+[2026-06-17 11:55:12 INF] HTTP GET /api/projecttasks responded 200 in 1.6622 ms
+[2026-06-17 11:55:14 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.6174 ms
+[2026-06-17 11:55:14 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0365 ms
+[2026-06-17 11:55:14 INF] HTTP GET /api/dashboard responded 200 in 18.6214 ms
+[2026-06-17 11:55:14 INF] HTTP GET /api/dashboard responded 200 in 9.6481 ms
+[2026-06-17 11:55:15 INF] HTTP OPTIONS /api/products responded 204 in 0.1160 ms
+[2026-06-17 11:55:15 INF] HTTP OPTIONS /api/products responded 204 in 0.0860 ms
+[2026-06-17 11:55:15 INF] HTTP GET /api/products responded 200 in 6.1544 ms
+[2026-06-17 11:55:15 INF] HTTP GET /api/products responded 200 in 3.2310 ms
+[2026-06-17 11:55:18 INF] HTTP OPTIONS /api/customers responded 204 in 0.0870 ms
+[2026-06-17 11:55:18 INF] HTTP OPTIONS /api/customers responded 204 in 0.1408 ms
+[2026-06-17 11:55:18 INF] HTTP GET /api/customers responded 200 in 2.6050 ms
+[2026-06-17 11:55:18 INF] HTTP GET /api/customers responded 200 in 2.3801 ms
+[2026-06-17 11:55:19 INF] HTTP OPTIONS /api/sales responded 204 in 0.0498 ms
+[2026-06-17 11:55:19 INF] HTTP OPTIONS /api/sales responded 204 in 0.0299 ms
+[2026-06-17 11:55:19 INF] HTTP GET /api/customers responded 200 in 1.6051 ms
+[2026-06-17 11:55:19 INF] HTTP GET /api/products responded 200 in 2.0183 ms
+[2026-06-17 11:55:19 INF] HTTP GET /api/products responded 200 in 3.8311 ms
+[2026-06-17 11:55:19 INF] HTTP GET /api/sales responded 200 in 3.8965 ms
+[2026-06-17 11:55:19 INF] HTTP GET /api/customers responded 200 in 3.2256 ms
+[2026-06-17 11:55:19 INF] HTTP GET /api/sales responded 200 in 1.3471 ms
+[2026-06-17 11:55:21 INF] HTTP GET /api/customers responded 200 in 2.2956 ms
+[2026-06-17 11:55:21 INF] HTTP GET /api/customers responded 200 in 4.7030 ms
+[2026-06-17 11:55:28 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0671 ms
+[2026-06-17 11:55:28 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0545 ms
+[2026-06-17 11:55:28 INF] HTTP GET /api/projecttasks responded 200 in 3.6340 ms
+[2026-06-17 11:55:28 INF] HTTP GET /api/projecttasks responded 200 in 1.9979 ms
+[2026-06-17 11:55:30 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0519 ms
+[2026-06-17 11:55:30 INF] HTTP OPTIONS /api/customers responded 204 in 0.0372 ms
+[2026-06-17 11:55:30 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0297 ms
+[2026-06-17 11:55:30 INF] HTTP OPTIONS /api/customers responded 204 in 0.0603 ms
+[2026-06-17 11:55:30 INF] HTTP GET /api/serviceorders responded 200 in 2.3812 ms
+[2026-06-17 11:55:30 INF] HTTP GET /api/customers responded 200 in 1.5045 ms
+[2026-06-17 11:55:30 INF] HTTP GET /api/serviceorders responded 200 in 2.6265 ms
+[2026-06-17 11:55:30 INF] HTTP GET /api/customers responded 200 in 2.3471 ms
+[2026-06-17 18:06:47 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.1237 ms
+[2026-06-17 18:06:47 INF] HTTP OPTIONS /api/customers responded 204 in 0.0354 ms
+[2026-06-17 18:06:47 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0316 ms
+[2026-06-17 18:06:47 INF] HTTP OPTIONS /api/customers responded 204 in 0.0337 ms
+[2026-06-17 18:06:47 INF] HTTP GET /api/serviceorders responded 401 in 0.6555 ms
+[2026-06-17 18:06:47 INF] HTTP GET /api/customers responded 401 in 0.3322 ms
+[2026-06-17 18:06:47 INF] HTTP GET /api/serviceorders responded 401 in 0.4740 ms
+[2026-06-17 18:06:47 INF] HTTP GET /api/customers responded 401 in 0.5278 ms
+[2026-06-17 18:10:00 INF] UniversalERP API başarıyla başlatıldı.
+[2026-06-17 18:11:26 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 16.4774 ms
+[2026-06-17 18:11:26 INF] HTTP OPTIONS /api/serviceorders responded 204 in 16.5107 ms
+[2026-06-17 18:11:26 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 16.4940 ms
+[2026-06-17 18:11:26 INF] HTTP OPTIONS /api/customers responded 204 in 16.4617 ms
+[2026-06-17 18:11:26 INF] HTTP OPTIONS /api/serviceorders responded 204 in 16.4523 ms
+[2026-06-17 18:11:26 INF] HTTP OPTIONS /api/customers responded 204 in 16.4487 ms
+[2026-06-17 18:11:26 WRN] Failed to determine the https port for redirect.
+[2026-06-17 18:11:26 INF] HTTP GET /api/customers responded 401 in 72.4596 ms
+[2026-06-17 18:11:26 INF] HTTP GET /api/serviceorders responded 401 in 72.4606 ms
+[2026-06-17 18:11:26 INF] HTTP POST /hubs/erp/negotiate responded 401 in 73.6989 ms
+[2026-06-17 18:11:26 INF] HTTP POST /hubs/erp/negotiate responded 401 in 73.6989 ms
+[2026-06-17 18:11:26 INF] HTTP GET /api/serviceorders responded 401 in 2.1012 ms
+[2026-06-17 18:11:26 INF] HTTP GET /api/customers responded 401 in 2.4483 ms
+[2026-06-17 18:11:32 INF] HTTP OPTIONS /api/auth/login responded 204 in 0.2413 ms
+[2026-06-17 18:11:32 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 18:11:32 INF] HTTP POST /api/auth/login responded 200 in 235.8304 ms
+[2026-06-17 18:11:32 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0932 ms
+[2026-06-17 18:11:32 INF] HTTP OPTIONS /api/customers responded 204 in 0.0347 ms
+[2026-06-17 18:11:32 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0432 ms
+[2026-06-17 18:11:32 INF] HTTP GET /api/customers responded 401 in 0.1998 ms
+[2026-06-17 18:11:32 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0346 ms
+[2026-06-17 18:11:32 INF] HTTP GET /api/serviceorders responded 401 in 0.2484 ms
+[2026-06-17 18:11:32 INF] HTTP OPTIONS /api/customers responded 204 in 0.0502 ms
+[2026-06-17 18:11:33 INF] HTTP POST /hubs/erp/negotiate responded 200 in 8.4170 ms
+[2026-06-17 18:11:33 INF] SignalR bağlantısı: Anonim | TenantId: 1
+[2026-06-17 18:11:33 INF] HTTP GET /api/serviceorders responded 200 in 75.3126 ms
+[2026-06-17 18:11:33 INF] HTTP GET /api/customers responded 200 in 74.3815 ms
+[2026-06-17 18:11:35 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.2827 ms
+[2026-06-17 18:11:35 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.3163 ms
+[2026-06-17 18:11:35 INF] HTTP GET /api/dashboard responded 200 in 94.8772 ms
+[2026-06-17 18:11:35 INF] HTTP GET /api/dashboard responded 200 in 8.1876 ms
+[2026-06-17 18:11:36 INF] HTTP OPTIONS /api/products responded 204 in 0.1832 ms
+[2026-06-17 18:11:36 INF] HTTP OPTIONS /api/products responded 204 in 0.2217 ms
+[2026-06-17 18:11:36 INF] HTTP GET /api/products responded 200 in 13.4677 ms
+[2026-06-17 18:11:36 INF] HTTP GET /api/products responded 200 in 2.2205 ms
+[2026-06-17 18:11:39 INF] HTTP OPTIONS /api/customers responded 204 in 0.1213 ms
+[2026-06-17 18:11:39 INF] HTTP OPTIONS /api/customers responded 204 in 0.0421 ms
+[2026-06-17 18:11:39 INF] HTTP GET /api/customers responded 200 in 1.9352 ms
+[2026-06-17 18:11:39 INF] HTTP GET /api/customers responded 200 in 3.4904 ms
+[2026-06-17 18:11:41 INF] HTTP OPTIONS /api/sales responded 204 in 0.1545 ms
+[2026-06-17 18:11:41 INF] HTTP OPTIONS /api/sales responded 204 in 0.0334 ms
+[2026-06-17 18:11:41 INF] HTTP GET /api/products responded 200 in 2.5853 ms
+[2026-06-17 18:11:41 INF] HTTP GET /api/customers responded 200 in 2.5555 ms
+[2026-06-17 18:11:41 INF] HTTP GET /api/products responded 200 in 2.2076 ms
+[2026-06-17 18:11:41 INF] HTTP GET /api/customers responded 200 in 2.1252 ms
+[2026-06-17 18:11:41 INF] HTTP GET /api/sales responded 200 in 12.0786 ms
+[2026-06-17 18:11:41 INF] HTTP GET /api/sales responded 200 in 2.6278 ms
+[2026-06-17 18:11:46 INF] HTTP OPTIONS /api/customers responded 204 in 0.0850 ms
+[2026-06-17 18:11:46 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0851 ms
+[2026-06-17 18:11:46 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0299 ms
+[2026-06-17 18:11:46 INF] HTTP OPTIONS /api/customers responded 204 in 0.0227 ms
+[2026-06-17 18:11:46 INF] HTTP GET /api/customers responded 200 in 2.7002 ms
+[2026-06-17 18:11:46 INF] HTTP GET /api/serviceorders responded 200 in 2.1849 ms
+[2026-06-17 18:11:46 INF] HTTP GET /api/customers responded 200 in 1.3359 ms
+[2026-06-17 18:11:46 INF] HTTP GET /api/serviceorders responded 200 in 1.6972 ms
+[2026-06-17 18:11:47 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0799 ms
+[2026-06-17 18:11:47 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0627 ms
+[2026-06-17 18:11:47 INF] HTTP GET /api/projecttasks responded 200 in 12.9018 ms
+[2026-06-17 18:11:47 INF] HTTP GET /api/projecttasks responded 200 in 1.8075 ms
+[2026-06-17 18:12:07 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1042 ms
+[2026-06-17 18:12:07 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0284 ms
+[2026-06-17 18:12:07 INF] HTTP GET /api/dashboard responded 200 in 7.2855 ms
+[2026-06-17 18:12:07 INF] HTTP GET /api/dashboard responded 200 in 7.7474 ms
+[2026-06-17 18:12:10 INF] HTTP OPTIONS /api/auditlogs responded 204 in 0.0997 ms
+[2026-06-17 18:12:10 INF] HTTP OPTIONS /api/auditlogs responded 204 in 0.0221 ms
+[2026-06-17 18:12:10 INF] HTTP GET /api/auditlogs responded 200 in 19.6765 ms
+[2026-06-17 18:12:10 INF] HTTP GET /api/auditlogs responded 200 in 1.9177 ms
+[2026-06-17 18:12:13 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0703 ms
+[2026-06-17 18:12:13 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0338 ms
+[2026-06-17 18:12:13 INF] HTTP GET /api/dashboard responded 200 in 5.4139 ms
+[2026-06-17 18:12:13 INF] HTTP GET /api/dashboard responded 200 in 5.0814 ms
+[2026-06-17 18:12:15 INF] HTTP GET /hubs/erp responded 101 in 42767.8331 ms
+[2026-06-17 18:12:16 INF] HTTP OPTIONS /api/auth/login responded 204 in 0.1151 ms
+[2026-06-17 18:12:16 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 18:12:16 INF] HTTP POST /api/auth/login responded 200 in 69.1790 ms
+[2026-06-17 18:12:16 INF] HTTP GET /api/dashboard responded 401 in 0.1856 ms
+[2026-06-17 18:12:16 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0355 ms
+[2026-06-17 18:12:16 INF] HTTP POST /hubs/erp/negotiate responded 200 in 0.6637 ms
+[2026-06-17 18:12:16 INF] HTTP GET /api/dashboard responded 200 in 5.7589 ms
+[2026-06-17 18:12:16 INF] SignalR bağlantısı: Anonim | TenantId: 1
+[2026-06-17 18:12:21 INF] HTTP OPTIONS /api/products responded 204 in 0.0499 ms
+[2026-06-17 18:12:21 INF] HTTP OPTIONS /api/products responded 204 in 0.0433 ms
+[2026-06-17 18:12:21 INF] HTTP GET /api/products responded 200 in 1.7819 ms
+[2026-06-17 18:12:21 INF] HTTP GET /api/products responded 200 in 1.6688 ms
+[2026-06-17 18:12:22 INF] HTTP OPTIONS /api/customers responded 204 in 0.0490 ms
+[2026-06-17 18:12:22 INF] HTTP OPTIONS /api/customers responded 204 in 0.0176 ms
+[2026-06-17 18:12:22 INF] HTTP GET /api/customers responded 200 in 1.5762 ms
+[2026-06-17 18:12:22 INF] HTTP GET /api/customers responded 200 in 1.1560 ms
+[2026-06-17 18:12:23 INF] HTTP OPTIONS /api/sales responded 204 in 0.0790 ms
+[2026-06-17 18:12:23 INF] HTTP OPTIONS /api/sales responded 204 in 0.0394 ms
+[2026-06-17 18:12:23 INF] HTTP GET /api/products responded 200 in 1.6971 ms
+[2026-06-17 18:12:23 INF] HTTP GET /api/customers responded 200 in 1.6206 ms
+[2026-06-17 18:12:23 INF] HTTP GET /api/products responded 200 in 1.3738 ms
+[2026-06-17 18:12:23 INF] HTTP GET /api/customers responded 200 in 1.2989 ms
+[2026-06-17 18:12:23 INF] HTTP GET /api/sales responded 200 in 7.0753 ms
+[2026-06-17 18:12:23 INF] HTTP GET /api/sales responded 200 in 1.1200 ms
+[2026-06-17 18:12:24 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0401 ms
+[2026-06-17 18:12:24 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0289 ms
+[2026-06-17 18:12:24 INF] HTTP GET /api/customers responded 200 in 1.6199 ms
+[2026-06-17 18:12:24 INF] HTTP GET /api/serviceorders responded 200 in 1.0032 ms
+[2026-06-17 18:12:24 INF] HTTP GET /api/customers responded 200 in 1.0473 ms
+[2026-06-17 18:12:24 INF] HTTP GET /api/serviceorders responded 200 in 0.8968 ms
+[2026-06-17 18:12:25 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0682 ms
+[2026-06-17 18:12:25 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0283 ms
+[2026-06-17 18:12:25 INF] HTTP GET /api/projecttasks responded 200 in 2.0168 ms
+[2026-06-17 18:12:25 INF] HTTP GET /api/projecttasks responded 200 in 1.2651 ms
+[2026-06-17 18:12:32 INF] HTTP GET /hubs/erp responded 101 in 15628.0776 ms
+[2026-06-17 18:12:32 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0562 ms
+[2026-06-17 18:12:32 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0198 ms
+[2026-06-17 18:12:32 INF] HTTP POST /hubs/erp/negotiate responded 200 in 0.6249 ms
+[2026-06-17 18:12:32 INF] HTTP POST /hubs/erp/negotiate responded 200 in 0.4593 ms
+[2026-06-17 18:12:32 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0264 ms
+[2026-06-17 18:12:32 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0319 ms
+[2026-06-17 18:12:32 INF] SignalR bağlantısı: Anonim | TenantId: 1
+[2026-06-17 18:12:32 INF] HTTP GET /api/dashboard responded 200 in 6.6187 ms
+[2026-06-17 18:12:32 INF] HTTP GET /api/dashboard responded 200 in 4.2788 ms
+[2026-06-17 18:14:48 INF] HTTP GET /hubs/erp responded 101 in 135971.1092 ms
+[2026-06-17 18:14:49 INF] HTTP OPTIONS /api/auth/login responded 204 in 0.0478 ms
+[2026-06-17 18:14:50 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 18:14:50 INF] HTTP POST /api/auth/login responded 200 in 57.7260 ms
+[2026-06-17 18:14:50 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0355 ms
+[2026-06-17 18:14:50 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0295 ms
+[2026-06-17 18:14:50 INF] HTTP GET /api/dashboard responded 401 in 0.1353 ms
+[2026-06-17 18:14:50 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0210 ms
+[2026-06-17 18:14:50 INF] HTTP POST /hubs/erp/negotiate responded 200 in 0.3326 ms
+[2026-06-17 18:14:50 INF] SignalR bağlantısı: Anonim | TenantId: 1
+[2026-06-17 18:14:50 INF] HTTP GET /api/dashboard responded 200 in 6.2123 ms
+[2026-06-17 18:14:52 INF] HTTP OPTIONS /api/products responded 204 in 0.0616 ms
+[2026-06-17 18:14:52 INF] HTTP OPTIONS /api/products responded 204 in 0.0324 ms
+[2026-06-17 18:14:52 INF] HTTP GET /api/products responded 200 in 1.2403 ms
+[2026-06-17 18:14:52 INF] HTTP GET /api/products responded 200 in 1.3645 ms
+[2026-06-17 18:14:53 INF] HTTP OPTIONS /api/customers responded 204 in 0.0483 ms
+[2026-06-17 18:14:53 INF] HTTP OPTIONS /api/customers responded 204 in 0.0441 ms
+[2026-06-17 18:14:53 INF] HTTP GET /api/customers responded 200 in 1.2989 ms
+[2026-06-17 18:14:53 INF] HTTP GET /api/customers responded 200 in 1.7823 ms
+[2026-06-17 18:14:55 INF] HTTP OPTIONS /api/sales responded 204 in 0.0394 ms
+[2026-06-17 18:14:55 INF] HTTP OPTIONS /api/sales responded 204 in 0.0286 ms
+[2026-06-17 18:14:55 INF] HTTP GET /api/products responded 200 in 1.5612 ms
+[2026-06-17 18:14:55 INF] HTTP GET /api/customers responded 200 in 1.1854 ms
+[2026-06-17 18:14:55 INF] HTTP GET /api/products responded 200 in 1.9588 ms
+[2026-06-17 18:14:55 INF] HTTP GET /api/sales responded 200 in 0.7969 ms
+[2026-06-17 18:14:55 INF] HTTP GET /api/customers responded 200 in 1.4777 ms
+[2026-06-17 18:14:55 INF] HTTP GET /api/sales responded 200 in 1.4046 ms
+[2026-06-17 18:14:56 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0473 ms
+[2026-06-17 18:14:56 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0294 ms
+[2026-06-17 18:14:56 INF] HTTP GET /api/customers responded 200 in 1.6803 ms
+[2026-06-17 18:14:56 INF] HTTP GET /api/serviceorders responded 200 in 1.7819 ms
+[2026-06-17 18:14:56 INF] HTTP GET /api/customers responded 200 in 1.1942 ms
+[2026-06-17 18:14:56 INF] HTTP GET /api/serviceorders responded 200 in 2.2018 ms
+[2026-06-17 18:14:57 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0422 ms
+[2026-06-17 18:14:57 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.0236 ms
+[2026-06-17 18:14:57 INF] HTTP GET /api/projecttasks responded 200 in 1.1163 ms
+[2026-06-17 18:14:57 INF] HTTP GET /api/projecttasks responded 200 in 0.9310 ms
+[2026-06-17 18:14:59 INF] HTTP GET /api/projecttasks responded 200 in 1.1440 ms
+[2026-06-17 18:14:59 INF] HTTP GET /api/projecttasks responded 200 in 1.0011 ms
+[2026-06-17 18:15:07 INF] HTTP OPTIONS /api/products responded 204 in 0.0423 ms
+[2026-06-17 18:15:07 INF] HTTP OPTIONS /api/products responded 204 in 0.0211 ms
+[2026-06-17 18:15:07 INF] HTTP GET /api/products responded 200 in 1.2035 ms
+[2026-06-17 18:15:07 INF] HTTP GET /api/products responded 200 in 1.0608 ms
+[2026-06-17 18:15:08 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0460 ms
+[2026-06-17 18:15:08 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.0368 ms
+[2026-06-17 18:15:08 INF] HTTP GET /api/dashboard responded 200 in 4.6954 ms
+[2026-06-17 18:15:08 INF] HTTP GET /api/dashboard responded 200 in 4.9793 ms
+[2026-06-17 18:15:09 INF] HTTP OPTIONS /api/customers responded 204 in 0.0444 ms
+[2026-06-17 18:15:09 INF] HTTP OPTIONS /api/customers responded 204 in 0.0221 ms
+[2026-06-17 18:15:09 INF] HTTP GET /api/customers responded 200 in 1.3152 ms
+[2026-06-17 18:15:09 INF] HTTP GET /api/customers responded 200 in 1.1409 ms
+[2026-06-17 18:16:16 INF] HTTP OPTIONS /api/customers responded 204 in 0.1133 ms
+[2026-06-17 18:16:16 ERR] An exception occurred in the database while saving changes for context type 'ERP.Data.AppDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_Tenants_TenantId". The conflict occurred in database "UniversalERP_Db", table "dbo.Tenants", column 'Id'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:8e2c2ebb-80f8-4fd3-b250-960a81dc93d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_Tenants_TenantId". The conflict occurred in database "UniversalERP_Db", table "dbo.Tenants", column 'Id'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:8e2c2ebb-80f8-4fd3-b250-960a81dc93d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+[2026-06-17 18:16:16 ERR] HTTP POST /api/customers responded 500 in 58.6033 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_Tenants_TenantId". The conflict occurred in database "UniversalERP_Db", table "dbo.Tenants", column 'Id'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:8e2c2ebb-80f8-4fd3-b250-960a81dc93d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ERP.Data.UnitOfWork.CompleteAsync() in C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\UnitOfWork.cs:line 43
+   at ERP.Data.Services.CustomerService.CreateAsync(CreateCustomerDto dto) in C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\Services\CustomerService.cs:line 35
+   at ERP.API.Controllers.CustomersController.Create(CreateCustomerDto dto) in C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.API\Controllers\CustomersController.cs:line 38
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[2026-06-17 18:16:16 ERR] Beklenmeyen hata: An error occurred while saving the entity changes. See the inner exception for details. | Path: /api/customers | User: Anonim
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_Tenants_TenantId". The conflict occurred in database "UniversalERP_Db", table "dbo.Tenants", column 'Id'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:8e2c2ebb-80f8-4fd3-b250-960a81dc93d4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ERP.Data.UnitOfWork.CompleteAsync() in C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\UnitOfWork.cs:line 43
+   at ERP.Data.Services.CustomerService.CreateAsync(CreateCustomerDto dto) in C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Data\Services\CustomerService.cs:line 35
+   at ERP.API.Controllers.CustomersController.Create(CreateCustomerDto dto) in C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.API\Controllers\CustomersController.cs:line 38
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at ERP.API.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.API\Middleware\ExceptionMiddleware.cs:line 21
+[2026-06-17 18:16:21 INF] HTTP OPTIONS /api/sales responded 204 in 0.0473 ms
+[2026-06-17 18:16:21 INF] HTTP OPTIONS /api/products responded 204 in 0.0304 ms
+[2026-06-17 18:16:21 INF] HTTP OPTIONS /api/sales responded 204 in 0.0189 ms
+[2026-06-17 18:16:21 INF] HTTP OPTIONS /api/products responded 204 in 0.0135 ms
+[2026-06-17 18:16:21 INF] HTTP GET /api/customers responded 200 in 1.2962 ms
+[2026-06-17 18:16:21 INF] HTTP GET /api/sales responded 200 in 1.2484 ms
+[2026-06-17 18:16:21 INF] HTTP GET /api/products responded 200 in 0.8302 ms
+[2026-06-17 18:16:21 INF] HTTP GET /api/customers responded 200 in 0.8682 ms
+[2026-06-17 18:16:21 INF] HTTP GET /api/sales responded 200 in 1.5411 ms
+[2026-06-17 18:16:21 INF] HTTP GET /api/products responded 200 in 1.3758 ms
+[2026-06-17 18:16:22 INF] HTTP OPTIONS /api/customers responded 204 in 0.0428 ms
+[2026-06-17 18:16:22 INF] HTTP OPTIONS /api/customers responded 204 in 0.0613 ms
+[2026-06-17 18:16:22 INF] HTTP GET /api/customers responded 200 in 0.9835 ms
+[2026-06-17 18:16:22 INF] HTTP GET /api/customers responded 200 in 1.0746 ms
+[2026-06-17 18:40:47 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1266 ms
+[2026-06-17 18:40:47 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1426 ms
+[2026-06-17 18:40:48 INF] HTTP GET /api/dashboard responded 200 in 707.3803 ms
+[2026-06-17 18:40:48 INF] HTTP GET /api/dashboard responded 200 in 4.4295 ms
+[2026-06-17 18:40:48 INF] HTTP OPTIONS /api/products responded 204 in 0.0745 ms
+[2026-06-17 18:40:48 INF] HTTP OPTIONS /api/products responded 204 in 0.0986 ms
+[2026-06-17 18:40:48 INF] HTTP GET /api/products responded 200 in 2.8938 ms
+[2026-06-17 18:40:48 INF] HTTP GET /api/products responded 200 in 1.0296 ms
+[2026-06-17 18:40:50 INF] HTTP GET /api/dashboard responded 200 in 5.0997 ms
+[2026-06-17 18:40:50 INF] HTTP GET /api/dashboard responded 200 in 4.3430 ms
+[2026-06-17 18:40:51 INF] HTTP OPTIONS /api/customers responded 204 in 0.0555 ms
+[2026-06-17 18:40:51 INF] HTTP OPTIONS /api/customers responded 204 in 0.0201 ms
+[2026-06-17 18:40:51 INF] HTTP GET /api/customers responded 200 in 2.6881 ms
+[2026-06-17 18:40:51 INF] HTTP GET /api/customers responded 200 in 0.8483 ms
+[2026-06-17 19:17:38 INF] HTTP GET /hubs/erp responded 101 in 3768190.2109 ms
+[2026-06-17 20:00:03 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0610 ms
+[2026-06-17 20:00:03 INF] HTTP POST /hubs/erp/negotiate responded 401 in 0.6997 ms
+[2026-06-17 20:03:00 INF] HTTP OPTIONS /api/customers responded 204 in 0.0704 ms
+[2026-06-17 20:03:00 INF] HTTP GET /api/customers responded 401 in 0.6666 ms
+[2026-06-17 20:03:00 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0451 ms
+[2026-06-17 20:03:00 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0232 ms
+[2026-06-17 20:03:00 INF] HTTP GET /api/customers responded 401 in 0.3850 ms
+[2026-06-17 20:03:00 INF] HTTP POST /hubs/erp/negotiate responded 401 in 0.4447 ms
+[2026-06-17 20:03:00 INF] HTTP POST /hubs/erp/negotiate responded 401 in 0.3254 ms
+[2026-06-17 21:01:50 INF] UniversalERP API başarıyla başlatıldı.
+[2026-06-17 21:02:13 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 14.4838 ms
+[2026-06-17 21:02:13 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 14.4832 ms
+[2026-06-17 21:02:13 INF] HTTP OPTIONS /api/dashboard responded 204 in 14.5014 ms
+[2026-06-17 21:02:13 INF] HTTP OPTIONS /api/dashboard responded 204 in 14.4978 ms
+[2026-06-17 21:02:13 WRN] Failed to determine the https port for redirect.
+[2026-06-17 21:02:13 INF] HTTP POST /hubs/erp/negotiate responded 401 in 66.3866 ms
+[2026-06-17 21:02:13 INF] HTTP POST /hubs/erp/negotiate responded 401 in 66.3910 ms
+[2026-06-17 21:02:13 INF] HTTP GET /api/dashboard responded 401 in 64.8174 ms
+[2026-06-17 21:02:13 INF] HTTP GET /api/dashboard responded 401 in 4.0197 ms
+[2026-06-17 21:02:28 INF] HTTP OPTIONS /api/auth/login responded 204 in 0.3612 ms
+[2026-06-17 21:02:28 INF] Giriş başarılı: master@erp.com | Rol: SuperAdmin | TenantId: 1
+[2026-06-17 21:02:28 INF] HTTP POST /api/auth/login responded 200 in 484.4815 ms
+[2026-06-17 21:02:28 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1159 ms
+[2026-06-17 21:02:28 INF] HTTP OPTIONS /api/dashboard responded 204 in 0.1251 ms
+[2026-06-17 21:02:28 INF] HTTP OPTIONS /hubs/erp/negotiate responded 204 in 0.0495 ms
+[2026-06-17 21:02:28 INF] HTTP GET /api/dashboard responded 401 in 0.5516 ms
+[2026-06-17 21:02:28 INF] HTTP POST /hubs/erp/negotiate responded 200 in 15.1048 ms
+[2026-06-17 21:02:28 INF] SignalR bağlantısı: Anonim | TenantId: 1
+[2026-06-17 21:02:29 INF] HTTP GET /api/dashboard responded 200 in 300.5862 ms
+[2026-06-17 21:02:30 INF] HTTP OPTIONS /api/products responded 204 in 0.2067 ms
+[2026-06-17 21:02:30 INF] HTTP OPTIONS /api/products responded 204 in 0.2603 ms
+[2026-06-17 21:02:30 INF] HTTP GET /api/products responded 200 in 155.3913 ms
+[2026-06-17 21:02:30 INF] HTTP GET /api/products responded 200 in 6.9909 ms
+[2026-06-17 21:02:31 INF] HTTP OPTIONS /api/customers responded 204 in 0.2531 ms
+[2026-06-17 21:02:31 INF] HTTP OPTIONS /api/customers responded 204 in 0.2160 ms
+[2026-06-17 21:02:31 INF] HTTP GET /api/customers responded 200 in 38.9869 ms
+[2026-06-17 21:02:31 INF] HTTP GET /api/customers responded 200 in 3.5843 ms
+[2026-06-17 21:02:33 INF] HTTP OPTIONS /api/sales responded 204 in 0.1791 ms
+[2026-06-17 21:02:33 INF] HTTP OPTIONS /api/sales responded 204 in 0.0568 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/products responded 200 in 10.7750 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/products responded 200 in 5.0940 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/customers responded 200 in 20.6818 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/customers responded 200 in 3.2647 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/sales responded 200 in 26.9370 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/sales responded 200 in 4.0313 ms
+[2026-06-17 21:02:33 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.5248 ms
+[2026-06-17 21:02:33 INF] HTTP OPTIONS /api/serviceorders responded 204 in 0.0528 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/customers responded 200 in 3.3348 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/customers responded 200 in 4.9653 ms
+[2026-06-17 21:02:33 INF] HTTP GET /api/serviceorders responded 200 in 32.2940 ms
+[2026-06-17 21:02:34 INF] HTTP GET /api/serviceorders responded 200 in 3.4246 ms
+[2026-06-17 21:02:35 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.3977 ms
+[2026-06-17 21:02:35 INF] HTTP OPTIONS /api/projecttasks responded 204 in 0.1219 ms
+[2026-06-17 21:02:35 INF] HTTP GET /api/projecttasks responded 200 in 35.0355 ms
+[2026-06-17 21:02:35 INF] HTTP GET /api/projecttasks responded 200 in 2.7376 ms
+[2026-06-17 21:02:36 INF] HTTP OPTIONS /api/auditlogs responded 204 in 1.0468 ms
+[2026-06-17 21:02:36 INF] HTTP OPTIONS /api/auditlogs responded 204 in 0.1007 ms
+[2026-06-17 21:02:37 INF] HTTP GET /api/auditlogs responded 200 in 119.0182 ms
+[2026-06-17 21:02:37 INF] HTTP GET /api/auditlogs responded 200 in 12.4880 ms

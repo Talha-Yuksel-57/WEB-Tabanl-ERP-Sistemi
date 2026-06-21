@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <ProductImportRowDto>
+    <Name>Samsung Galaxy S24</Name>
+    <Price>45000.00</Price>
+    <StockCount>20</StockCount>
+    <MinStockLevel>3</MinStockLevel>
+  </ProductImportRowDto>
+  <ProductImportRowDto>
+    <Name>iPhone 15 Pro</Name>
+    <Price>65000.00</Price>
+    <StockCount>15</StockCount>
+    <MinStockLevel>3</MinStockLevel>
+  </ProductImportRowDto>
+  <ProductImportRowDto>
+    <Name>Laptop Dell XPS 13</Name>
+    <Price>55000.00</Price>
+    <StockCount>8</StockCount>
+    <MinStockLevel>2</MinStockLevel>
+  </ProductImportRowDto>
+</Products>

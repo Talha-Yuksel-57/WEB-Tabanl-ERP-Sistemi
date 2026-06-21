@@ -1,0 +1,7 @@
+[
+  { "name": "Samsung Galaxy S24", "price": 45000.00, "stockCount": 20, "minStockLevel": 3 },
+  { "name": "iPhone 15 Pro", "price": 65000.00, "stockCount": 15, "minStockLevel": 3 },
+  { "name": "Laptop Dell XPS 13", "price": 55000.00, "stockCount": 8, "minStockLevel": 2 },
+  { "name": "AirPods Pro", "price": 8500.00, "stockCount": 30, "minStockLevel": 5 },
+  { "name": "Logitech MX Master 3", "price": 3200.00, "stockCount": 50, "minStockLevel": 10 }
+]

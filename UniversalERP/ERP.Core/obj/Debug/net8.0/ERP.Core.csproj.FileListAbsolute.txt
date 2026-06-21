@@ -1,0 +1,24 @@
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\bin\Debug\net8.0\ERP.Core.deps.json
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\bin\Debug\net8.0\ERP.Core.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\bin\Debug\net8.0\ERP.Core.pdb
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.csproj.AssemblyReference.cache
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.AssemblyInfoInputs.cache
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.AssemblyInfo.cs
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.csproj.CoreCompileInputs.cache
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\refint\ERP.Core.dll
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.pdb
+C:\Users\yukse\OneDrive - Bursa Teknik Universitesi\Masaüstü\UniversalERP\ERP.Core\obj\Debug\net8.0\ref\ERP.Core.dll
+C:\Projeler\UniversalERP\ERP.Core\bin\Debug\net8.0\ERP.Core.deps.json
+C:\Projeler\UniversalERP\ERP.Core\bin\Debug\net8.0\ERP.Core.dll
+C:\Projeler\UniversalERP\ERP.Core\bin\Debug\net8.0\ERP.Core.pdb
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.csproj.AssemblyReference.cache
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.AssemblyInfoInputs.cache
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.AssemblyInfo.cs
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.csproj.CoreCompileInputs.cache
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.dll
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\refint\ERP.Core.dll
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ERP.Core.pdb
+C:\Projeler\UniversalERP\ERP.Core\obj\Debug\net8.0\ref\ERP.Core.dll

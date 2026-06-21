@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\ERP.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\ERP.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\ServiceOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\ServiceOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\StaffController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\StaffController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projeler\\UniversalERP\\ERP.Data\\Migrations\\20260111092158_UpdateProfessionalSchemaFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260108130528_FinalSchemaFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Data\\Migrations\\20260108130528_FinalSchemaFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260107100404_AddProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Data\\Migrations\\20260107100404_AddProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversalERP_Db/True/SqlTable/dbo.Tenants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\Tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260111092859_InitialProfessionalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Data\\Migrations\\20260111092859_InitialProfessionalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\TenantDashboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\TenantDashboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Interfaces\\ITenantProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Interfaces\\ITenantProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\ProjectTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\ProjectTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\ERP.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Core\\ERP.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\ERP.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\ERP.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\Services\\ITenantService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\Services\\ITenantService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\Services\\TenantService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\Services\\TenantService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\TenantsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.API\\Controllers\\TenantsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\ERP.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Data\\ERP.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Services\\TenantProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Data\\Services\\TenantProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERP.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ERP.API.http",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\ERP.API.http",
+              "RelativeDocumentMoniker": "ERP.API\\ERP.API.http",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\ERP.API.http",
+              "RelativeToolTip": "ERP.API\\ERP.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-30T17:27:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260111092158_UpdateProfessionalSchemaFinal.cs",
+              "DocumentMoniker": "C:\\Projeler\\UniversalERP\\ERP.Data\\Migrations\\20260111092158_UpdateProfessionalSchemaFinal.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Projeler\\UniversalERP\\ERP.Data\\Migrations\\20260111092158_UpdateProfessionalSchemaFinal.cs",
+              "ToolTip": "C:\\Projeler\\UniversalERP\\ERP.Data\\Migrations\\20260111092158_UpdateProfessionalSchemaFinal.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Projeler\\UniversalERP\\ERP.Data\\Migrations\\20260111092158_UpdateProfessionalSchemaFinal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:21:59.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:32:48.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:28:08.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:58:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:25:55.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceOrder.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\ServiceOrder.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\ServiceOrder.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\ServiceOrder.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\ServiceOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:37:36.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T10:37:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Program.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Program.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Program.cs",
+              "RelativeToolTip": "ERP.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:33:23.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\Tenant.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Tenant.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:28:27.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260111092859_InitialProfessionalCreate.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260111092859_InitialProfessionalCreate.cs",
+              "RelativeDocumentMoniker": "ERP.Data\\Migrations\\20260111092859_InitialProfessionalCreate.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260111092859_InitialProfessionalCreate.cs",
+              "RelativeToolTip": "ERP.Data\\Migrations\\20260111092859_InitialProfessionalCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:28:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TenantDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\TenantDashboardController.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\TenantDashboardController.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\TenantDashboardController.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\TenantDashboardController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:46:42.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ERP.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\AppDbContext.cs",
+              "RelativeToolTip": "ERP.Data\\AppDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:05:53.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITenantProvider.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Interfaces\\ITenantProvider.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Interfaces\\ITenantProvider.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Interfaces\\ITenantProvider.cs",
+              "RelativeToolTip": "ERP.Core\\Interfaces\\ITenantProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:26:34.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Customer.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:11:53.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\ProjectTask.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\ProjectTask.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\ProjectTask.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:39:35.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\Sale.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\Sale.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:39:11.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ERP.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "ERP.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T08:52:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ERP.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\appsettings.json",
+              "RelativeToolTip": "ERP.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T11:01:54.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ERP.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\ERP.Core.csproj",
+              "RelativeDocumentMoniker": "ERP.Core\\ERP.Core.csproj",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Core\\ERP.Core.csproj",
+              "RelativeToolTip": "ERP.Core\\ERP.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T19:27:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:44:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ERP.API.csproj",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\ERP.API.csproj",
+              "RelativeDocumentMoniker": "ERP.API\\ERP.API.csproj",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\ERP.API.csproj",
+              "RelativeToolTip": "ERP.API\\ERP.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T11:14:16.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITenantService.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\Services\\ITenantService.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\Services\\ITenantService.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\Services\\ITenantService.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\Services\\ITenantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:05:03.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\Services\\TenantService.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\Services\\TenantService.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\Services\\TenantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:05:25.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:14:43.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260108130528_FinalSchemaFix.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260108130528_FinalSchemaFix.cs",
+              "RelativeDocumentMoniker": "ERP.Data\\Migrations\\20260108130528_FinalSchemaFix.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260108130528_FinalSchemaFix.cs",
+              "RelativeToolTip": "ERP.Data\\Migrations\\20260108130528_FinalSchemaFix.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:05:28.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TenantsController.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\TenantsController.cs",
+              "RelativeDocumentMoniker": "ERP.API\\Controllers\\TenantsController.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.API\\Controllers\\TenantsController.cs",
+              "RelativeToolTip": "ERP.API\\Controllers\\TenantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:49:39.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Tenants.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversalERP_Db/True/SqlTable/dbo.Tenants.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversalERP_Db/True/SqlTable/dbo.Tenants.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-05T11:46:32.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ERP.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\ERP.Data.csproj",
+              "RelativeDocumentMoniker": "ERP.Data\\ERP.Data.csproj",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\ERP.Data.csproj",
+              "RelativeToolTip": "ERP.Data\\ERP.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T20:25:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TenantProvider.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Services\\TenantProvider.cs",
+              "RelativeDocumentMoniker": "ERP.Data\\Services\\TenantProvider.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Services\\TenantProvider.cs",
+              "RelativeToolTip": "ERP.Data\\Services\\TenantProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:28:19.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260107100404_AddProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260107100404_AddProductTable.cs",
+              "RelativeDocumentMoniker": "ERP.Data\\Migrations\\20260107100404_AddProductTable.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Migrations\\20260107100404_AddProductTable.cs",
+              "RelativeToolTip": "ERP.Data\\Migrations\\20260107100404_AddProductTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T10:04:05.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "ERP.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\yukse\\OneDrive - Bursa Teknik Universitesi\\Masa\u00FCst\u00FC\\UniversalERP\\ERP.Data\\Class1.cs",
+              "RelativeToolTip": "ERP.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:17:28.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
